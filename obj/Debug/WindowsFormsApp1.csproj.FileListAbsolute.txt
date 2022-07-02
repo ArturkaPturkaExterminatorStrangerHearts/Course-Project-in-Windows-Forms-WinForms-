@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\User\Desktop\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+C:\Users\User\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

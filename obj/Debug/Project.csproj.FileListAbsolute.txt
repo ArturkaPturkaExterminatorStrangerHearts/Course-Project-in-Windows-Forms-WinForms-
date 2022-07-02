@@ -1,0 +1,300 @@
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\WindowsFormsApp1.exe.config
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\Project.csproj.ResolveComReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\Project.csproj.CopyComplete
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\Google.Protobuf.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\BouncyCastle.Crypto.dll
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\MaterialSkin.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.WinForms.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.Wpf.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.WinForms.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.WinForms.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.Wpf.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\LiveCharts.Wpf.xml
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\Newtonsoft.Json.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\Newtonsoft.Json.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Buffers.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Memory.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Numerics.Vectors.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Buffers.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Memory.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Numerics.Vectors.xml
+E:\Arthur\Курсовой проект\Мой курсовой\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Staff_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Staff_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\MaterialSkin.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Buffers.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Memory.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\Google.Protobuf.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Buffers.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Memory.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Студент\Desktop\Мой курсовой\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Staff_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.Staff_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Студент\Desktop\Мой курсовой\obj\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\WindowsFormsApp1.exe.config
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.WinForms.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.Wpf.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\MaterialSkin.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\Newtonsoft.Json.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Buffers.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Memory.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Numerics.Vectors.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\Google.Protobuf.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\BouncyCastle.Crypto.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.WinForms.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.WinForms.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.Wpf.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\LiveCharts.Wpf.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\Newtonsoft.Json.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Buffers.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Memory.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Numerics.Vectors.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\Project.csproj.ResolveComReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Staff_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.Staff_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\Project.csproj.CopyComplete
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой 222\obj\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\WindowsFormsApp1.exe.config
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\MaterialSkin.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\Newtonsoft.Json.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Buffers.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Memory.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Numerics.Vectors.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\Google.Protobuf.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\BouncyCastle.Crypto.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\Newtonsoft.Json.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Buffers.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Memory.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Numerics.Vectors.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\Project.csproj.ResolveComReference.cache
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Availability.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Staff_Add.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Staff_Change.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\en\WindowsFormsApp1.resources.dll
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\Project.csproj.CopyComplete
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.exe
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Archive.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\MaterialSkin.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Buffers.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Memory.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\Google.Protobuf.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Buffers.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Memory.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Archive.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Archive.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Archive.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Archive.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Availability.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Staff_Add.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.Staff_Change.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.LoginForm.en.resources
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\en\WindowsFormsApp1.resources.dll
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Студент\Desktop\Мой курсовой 2\obj\Debug\WindowsFormsApp1.pdb
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Apple_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Samsung_Archive.resources
+E:\Arthur\Курсовой проект\Мой курсовой\obj\Debug\WindowsFormsApp1.Smartphones_Xiaomi_Archive.resources

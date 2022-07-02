@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0108: Член скрывает унаследованный член: отсутствует новое ключевое слово
+dotnet_diagnostic.CS0108.severity = none
+
+# CS0168: Переменная объявлена, но не используется
+dotnet_diagnostic.CS0168.severity = none
