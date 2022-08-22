@@ -1,0 +1,4 @@
+# Course-Project-in-Windows-Forms-WinForms-
+The theme of the course project is "Automated tool for accounting and selling goods for working with the smartphone store database." This course project is made on Windows Forms C#. The project was created by a student with basic programming knowledge, so you can change and supplement the program as you wish.  The program uses the Mysql database, and the database file itself is located in the root folder of the project under the name "smartphone_store.sql".
+
+# Import the database file located in the root of the project folder to your server and run the program.
